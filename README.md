@@ -1,1 +1,3 @@
-# CS575
+### CS575
+
+Parallel programming

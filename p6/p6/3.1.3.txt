@@ -1,0 +1,368 @@
+       1	   8	    131072	     0.843 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	   9	    116508	    20.731 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  10	    104857	    23.232 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  11	     95325	    21.399 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  12	     87381	    24.168 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  13	     80659	    30.721 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  14	     74898	    10.967 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  15	     69905	    29.211 GigaMultsPerSecond
+       1	  16	     65536	     0.934 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  17	     61680	    30.178 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  18	     58254	    17.021 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  19	     55188	    19.523 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  20	     52428	    27.306 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  21	     49932	    15.717 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  22	     47662	    20.976 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  23	     45590	    19.066 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  24	     43690	    17.284 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  25	     41943	    18.940 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  26	     40329	     8.339 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  27	     38836	    20.750 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  28	     37449	    22.542 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  29	     36157	    24.478 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  30	     34952	    15.958 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  31	     33825	    24.076 GigaMultsPerSecond
+       1	  32	     32768	     0.087 GigaMultsPerSecond
+       2	   8	    262144	     1.139 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	   9	    233016	    39.304 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  10	    209715	    54.027 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  11	    190650	    32.882 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  12	    174762	    30.205 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  13	    161319	    54.210 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  14	    149796	    55.185 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  15	    139810	    56.573 GigaMultsPerSecond
+       2	  16	    131072	     1.422 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  17	    123361	    29.324 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  18	    116508	    40.234 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  19	    110376	    49.515 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  20	    104857	    43.410 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  21	     99864	    34.991 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  22	     95325	    28.056 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  23	     91180	    28.499 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  24	     87381	    31.653 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  25	     83886	    52.107 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  26	     80659	    35.184 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  27	     77672	    38.301 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  28	     74898	    41.756 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  29	     72315	    42.778 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  30	     69905	    31.174 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  31	     67650	    51.826 GigaMultsPerSecond
+       2	  32	     65536	     1.246 GigaMultsPerSecond
+       3	   8	    393216	     0.403 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	   9	    349525	    74.302 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  10	    314572	    77.300 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  11	    285975	    54.736 GigaMultsPerSecond
+       3	  12	    262144	     0.218 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  13	    241979	    59.280 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  14	    224694	    89.410 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  15	    209715	    74.176 GigaMultsPerSecond
+       3	  16	    196608	     0.196 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  17	    185042	    49.518 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  18	    174762	    44.279 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  19	    165564	    37.523 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  20	    157286	    43.222 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  21	    149796	    56.530 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  22	    142987	    50.635 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  23	    136770	    70.000 GigaMultsPerSecond
+       3	  24	    131072	     0.618 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  25	    125829	    62.892 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  26	    120989	    55.198 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  27	    116508	    42.710 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  28	    112347	    67.929 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  29	    108473	    48.743 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  30	    104857	    54.901 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  31	    101475	    27.735 GigaMultsPerSecond
+       3	  32	     98304	     0.221 GigaMultsPerSecond
+       4	   8	    524288	     0.234 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	   9	    466033	   106.419 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  10	    419430	    95.898 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  11	    381300	    97.583 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  12	    349525	    29.412 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  13	    322638	    95.671 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  14	    299593	    51.094 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  15	    279620	    79.902 GigaMultsPerSecond
+       4	  16	    262144	     0.962 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  17	    246723	    88.605 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  18	    233016	    63.473 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  19	    220752	    67.522 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  20	    209715	    81.462 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  21	    199728	   103.581 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  22	    190650	    89.248 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  23	    182361	   101.523 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  24	    174762	     1.924 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  25	    167772	    38.968 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  26	    161319	    91.954 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  27	    155344	   119.116 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  28	    149796	    82.077 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  29	    144631	     1.270 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  30	    139810	    71.782 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  31	    135300	    70.001 GigaMultsPerSecond
+       4	  32	    131072	     1.146 GigaMultsPerSecond
+       5	   8	    655360	     0.948 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	   9	    582542	   101.455 GigaMultsPerSecond
+       5	  10	    524288	     0.973 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  11	    476625	    92.152 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  12	    436906	   114.799 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  13	    403298	   104.226 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  14	    374491	   120.868 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  15	    349525	    83.948 GigaMultsPerSecond
+       5	  16	    327680	     0.920 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  17	    308404	    89.109 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  18	    291271	    62.836 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  19	    275941	    58.346 GigaMultsPerSecond
+       5	  20	    262144	     0.727 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  21	    249660	   109.370 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  22	    238312	    69.472 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  23	    227951	   103.034 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  24	    218453	   106.204 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  25	    209715	    80.630 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  26	    201649	   100.809 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  27	    194180	    79.007 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  28	    187245	    93.247 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  29	    180788	    93.651 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  30	    174762	   146.265 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  31	    169125	   144.436 GigaMultsPerSecond
+       5	  32	    163840	     2.083 GigaMultsPerSecond
+       6	   8	    786432	     1.268 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	   9	    699050	   119.958 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  10	    629145	   112.478 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  11	    571950	   138.854 GigaMultsPerSecond
+       6	  12	    524288	     1.213 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  13	    483958	    97.830 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  14	    449389	   162.978 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  15	    419430	   151.219 GigaMultsPerSecond
+       6	  16	    393216	     1.378 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  17	    370085	   153.855 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  18	    349525	   145.801 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  19	    331129	    95.855 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  20	    314572	   109.026 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  21	    299593	   107.605 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  22	    285975	   126.998 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  23	    273541	   107.478 GigaMultsPerSecond
+       6	  24	    262144	     2.497 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  25	    251658	   173.783 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  26	    241979	   108.154 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  27	    233016	   135.952 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  28	    224694	   178.912 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  29	    216946	   151.810 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  30	    209715	   162.143 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  31	    202950	   114.613 GigaMultsPerSecond
+       6	  32	    196608	     3.003 GigaMultsPerSecond
+       7	   8	    917504	     1.342 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	   9	    815559	   190.334 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  10	    734003	   204.920 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  11	    667275	   164.280 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  12	    611669	   116.662 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  13	    564617	   155.562 GigaMultsPerSecond
+       7	  14	    524288	     1.879 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  15	    489335	   130.822 GigaMultsPerSecond
+       7	  16	    458752	     0.529 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  17	    431766	   154.696 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  18	    407779	    91.435 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  19	    386317	   179.577 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  20	    367001	   154.005 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  21	    349525	   176.621 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  22	    333637	   154.028 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  23	    319131	   187.485 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  24	    305834	   179.099 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  25	    293601	   156.661 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  26	    282308	   126.219 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  27	    271853	   139.768 GigaMultsPerSecond
+       7	  28	    262144	     2.891 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  29	    253104	   124.682 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  30	    244667	   163.975 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  31	    236775	   123.584 GigaMultsPerSecond
+       7	  32	    229376	     1.882 GigaMultsPerSecond
+       8	   8	   1048576	     1.353 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	   9	    932067	   144.546 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  10	    838860	   175.098 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  11	    762600	   192.263 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  12	    699050	   176.822 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  13	    645277	   173.630 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  14	    599186	   179.259 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  15	    559240	   204.451 GigaMultsPerSecond
+       8	  16	    524288	     1.617 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  17	    493447	   151.002 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  18	    466033	   202.315 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  19	    441505	     3.690 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  20	    419430	   148.689 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  21	    399457	   127.634 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  22	    381300	   184.256 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  23	    364722	   132.289 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  24	    349525	   123.653 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  25	    335544	   200.349 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  26	    322638	   285.453 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  27	    310689	   118.505 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  28	    299593	   207.999 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  29	    289262	   218.624 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  30	    279620	   180.933 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  31	    270600	   194.812 GigaMultsPerSecond
+       8	  32	    262144	     3.721 GigaMultsPerSecond

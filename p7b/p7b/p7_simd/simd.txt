@@ -1,0 +1,4 @@
+/tmp/cc4iyGv7.o: In function `main.omp_fn.0':
+p7_simd2.cpp:(.text+0x2b5): undefined reference to `SimdMulSum(float*, float*, int)'
+collect2: ld returned 1 exit status
+sh: ./p7_simd2: No such file or directory

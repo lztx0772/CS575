@@ -1,0 +1,1446 @@
+       1	  32	     32768	     1.268 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  34	     30840	    23.491 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  36	     29127	    29.749 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  38	     27594	    31.825 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  40	     26214	    26.723 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  42	     24966	    24.393 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  44	     23831	    29.348 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  46	     22795	    30.907 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  48	     21845	    22.706 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  50	     20971	    23.659 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  52	     20164	    31.064 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  54	     19418	    29.511 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  56	     18724	    22.412 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  58	     18078	    23.359 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  60	     17476	    31.799 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  62	     16912	    22.876 GigaMultsPerSecond
+Wait: clWaitForEvents failed
+clEnqueueReadBuffer failed
+Wait: clWaitForEvents failed
+       1	  64	     16384	     0.000 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  66	     15887	    22.309 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  68	     15420	    25.295 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  70	     14979	    24.542 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  72	     14563	    24.431 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  74	     14169	    24.736 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  76	     13797	    34.510 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  78	     13443	    25.538 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  80	     13107	    22.391 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  82	     12787	    22.394 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  84	     12483	    33.820 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  86	     12192	    30.049 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  88	     11915	    24.155 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  90	     11650	    27.811 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  92	     11397	    18.711 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  94	     11155	    19.723 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  96	     10922	    30.325 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	  98	     10699	    23.154 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 100	     10485	    34.399 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 102	     10280	    25.627 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 104	     10082	    36.935 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 106	      9892	    25.302 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 108	      9709	    19.947 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 110	      9532	    24.254 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 112	      9362	    25.260 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 114	      9198	    24.738 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 116	      9039	    32.783 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 118	      8886	    22.641 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 120	      8738	    23.892 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 122	      8594	    21.093 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 124	      8456	    24.409 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 126	      8322	    25.246 GigaMultsPerSecond
+Wait: clWaitForEvents failed
+clEnqueueReadBuffer failed
+Wait: clWaitForEvents failed
+       1	 128	      8192	     0.000 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 130	      8065	    17.693 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 132	      7943	    28.414 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 134	      7825	    23.415 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 136	      7710	    25.713 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 138	      7598	    37.236 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 140	      7489	    39.091 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 142	      7384	    35.871 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 144	      7281	    38.334 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 146	      7182	    13.755 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 148	      7084	    35.924 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 150	      6990	    31.874 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 152	      6898	    24.628 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 154	      6808	    25.002 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 156	      6721	    30.558 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 158	      6636	    19.384 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 160	      6553	    13.462 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 162	      6472	    22.965 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 164	      6393	    22.713 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 166	      6316	    25.589 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 168	      6241	    22.992 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 170	      6168	    25.275 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 172	      6096	    22.911 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 174	      6026	    26.897 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 176	      5957	    38.308 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 178	      5890	    39.240 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 180	      5825	    24.211 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 182	      5761	    24.144 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 184	      5698	    24.834 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 186	      5637	    20.537 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 188	      5577	    25.458 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 190	      5518	    32.587 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 192	      5461	    23.341 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 194	      5405	    24.822 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 196	      5349	    23.592 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 198	      5295	    25.255 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 200	      5242	    22.492 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 202	      5190	    23.895 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 204	      5140	    28.278 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 206	      5090	    25.631 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 208	      5041	    24.022 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 210	      4993	    26.378 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 212	      4946	    20.417 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 214	      4899	    22.655 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 216	      4854	    24.374 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 218	      4809	    25.432 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 220	      4766	    27.457 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 222	      4723	    25.608 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 224	      4681	    23.405 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 226	      4639	    22.857 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 228	      4599	    30.591 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 230	      4559	    23.561 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 232	      4519	    36.278 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 234	      4481	    33.001 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 236	      4443	    19.307 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 238	      4405	    24.079 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 240	      4369	    18.018 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 242	      4332	    24.000 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 244	      4297	    24.503 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 246	      4262	    24.419 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 248	      4228	    24.954 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 250	      4194	    23.918 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 252	      4161	    24.495 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       1	 254	      4128	    23.108 GigaMultsPerSecond
+Wait: clWaitForEvents failed
+clEnqueueReadBuffer failed
+Wait: clWaitForEvents failed
+       1	 256	      4096	     0.000 GigaMultsPerSecond
+       2	  32	     65536	     1.773 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  34	     61680	    48.314 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  36	     58254	    50.047 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  38	     55188	    47.369 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  40	     52428	    60.435 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  42	     49932	    47.778 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  44	     47662	    85.285 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+Wait: clWaitForEvents failed
+clEnqueueReadBuffer failed
+Wait: clWaitForEvents failed
+clEnqueueNDRangeKernel failed: -54
+       2	  66	     31775	    43.827 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  68	     30840	    62.594 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  70	     29959	    47.691 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  72	     29127	    48.999 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  74	     28339	    65.886 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  76	     27594	    33.633 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  78	     26886	    50.508 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  80	     26214	    48.048 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  82	     25575	    60.475 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  84	     24966	    61.469 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  86	     24385	    63.832 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  88	     23831	    35.368 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  90	     23301	    61.168 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  92	     22795	    71.259 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  94	     22310	    55.923 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  96	     21845	    55.268 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	  98	     21399	    61.138 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 100	     20971	    47.144 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 102	     20560	    62.611 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 104	     20164	    62.358 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 106	     19784	    59.262 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 108	     19418	    38.629 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 110	     19065	    60.996 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 112	     18724	    64.955 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 114	     18396	    45.089 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 116	     18078	    57.976 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 118	     17772	    58.338 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 120	     17476	    62.887 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 122	     17189	    60.075 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 124	     16912	    44.923 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 126	     16644	    60.953 GigaMultsPerSecond
+Wait: clWaitForEvents failed
+clEnqueueReadBuffer failed
+Wait: clWaitForEvents failed
+       2	 128	     16384	     0.001 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 130	     16131	    56.299 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 132	     15887	    59.406 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 134	     15650	    61.596 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 136	     15420	    55.706 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 138	     15196	    62.555 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 140	     14979	    60.877 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 142	     14768	    62.134 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 144	     14563	    62.180 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 146	     14364	    58.319 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 148	     14169	    46.776 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 150	     13981	    59.166 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 152	     13797	    58.241 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 154	     13617	    59.168 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 156	     13443	    64.212 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 158	     13273	    31.074 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 160	     13107	    62.079 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 162	     12945	    60.921 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 164	     12787	    59.522 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 166	     12633	    62.029 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 168	     12483	    63.282 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 170	     12336	    55.692 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 172	     12192	    63.057 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 174	     12052	    60.990 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 176	     11915	    67.324 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 178	     11781	    36.065 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 180	     11650	    61.469 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 182	     11522	    45.766 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 184	     11397	    62.889 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 186	     11275	    45.752 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 188	     11155	    64.225 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 190	     11037	    62.313 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 192	     10922	    55.065 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 194	     10810	    46.171 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 196	     10699	    62.378 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 198	     10591	    64.153 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 200	     10485	    60.882 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 202	     10381	    64.326 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 204	     10280	    35.051 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 206	     10180	    61.392 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 208	     10082	    62.107 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 210	      9986	    46.311 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 212	      9892	    35.765 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 214	      9799	    62.070 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 216	      9709	    37.749 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 218	      9619	    62.415 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 220	      9532	    64.292 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 222	      9446	    57.218 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 224	      9362	    60.116 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 226	      9279	    50.880 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 228	      9198	    61.987 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 230	      9118	    63.423 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 232	      9039	    62.870 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 234	      8962	    59.283 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 236	      8886	    61.419 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 238	      8811	    46.870 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 240	      8738	    47.421 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 242	      8665	    36.241 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 244	      8594	    41.889 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 246	      8525	    48.822 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 248	      8456	    76.241 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 250	      8388	    65.493 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 252	      8322	    47.080 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       2	 254	      8256	    46.175 GigaMultsPerSecond
+Wait: clWaitForEvents failed
+clEnqueueReadBuffer failed
+Wait: clWaitForEvents failed
+       2	 256	      8192	     0.001 GigaMultsPerSecond
+       3	  32	     98304	     2.817 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  34	     92521	    83.882 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  36	     87381	    92.434 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  38	     82782	    93.234 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  40	     78643	    92.690 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  42	     74898	    98.322 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  44	     71493	    92.636 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  46	     68385	    92.742 GigaMultsPerSecond
+       3	  48	     65536	     3.095 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  50	     62914	    95.051 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  52	     60494	    55.454 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  54	     58254	    93.520 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  56	     56173	    69.713 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  58	     54236	    68.738 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  60	     52428	    57.289 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  62	     50737	    81.816 GigaMultsPerSecond
+Wait: clWaitForEvents failed
+clEnqueueReadBuffer failed
+Wait: clWaitForEvents failed
+       3	  64	     49152	     0.001 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       3	  66	     47662	    67.076 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+Wait: clWaitForEvents failed
+clEnqueueReadBuffer failed
+Wait: clWaitForEvents failed
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+Wait: clWaitForEvents failed
+clEnqueueReadBuffer failed
+Wait: clWaitForEvents failed
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+Wait: clWaitForEvents failed
+clEnqueueReadBuffer failed
+Wait: clWaitForEvents failed
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+Wait: clWaitForEvents failed
+clEnqueueReadBuffer failed
+Wait: clWaitForEvents failed
+       4	  32	    131072	     3.252 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  34	    123361	    95.412 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  36	    116508	    77.863 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  38	    110376	   121.991 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  40	    104857	    93.379 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  42	     99864	    93.076 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  44	     95325	   111.391 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  46	     91180	   115.463 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  48	     87381	   125.702 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  50	     83886	   122.319 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  52	     80659	   114.007 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  54	     77672	   126.464 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  56	     74898	   112.884 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  58	     72315	   124.638 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  60	     69905	   117.038 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  62	     67650	    91.853 GigaMultsPerSecond
+Wait: clWaitForEvents failed
+clEnqueueReadBuffer failed
+Wait: clWaitForEvents failed
+       4	  64	     65536	     0.002 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  66	     63550	    92.392 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  68	     61680	    92.622 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  70	     59918	    91.499 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  72	     58254	   123.828 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  74	     56679	   126.495 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  76	     55188	   108.968 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  78	     53773	   124.405 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  80	     52428	   123.253 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  82	     51150	    89.812 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  84	     49932	   123.391 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  86	     48770	   117.340 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       4	  88	     47662	   122.286 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+Wait: clWaitForEvents failed
+clEnqueueReadBuffer failed
+Wait: clWaitForEvents failed
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+Wait: clWaitForEvents failed
+clEnqueueReadBuffer failed
+Wait: clWaitForEvents failed
+       5	  32	    163840	     3.135 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  34	    154202	   154.822 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  36	    145635	   111.731 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  38	    137970	   146.736 GigaMultsPerSecond
+       5	  40	    131072	     3.153 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  42	    124830	   112.847 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  44	    119156	   153.931 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  46	    113975	   105.327 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  48	    109226	   147.351 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  50	    104857	   162.042 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  52	    100824	   156.261 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  54	     97090	   140.556 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  56	     93622	   105.317 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  58	     90394	   151.792 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  60	     87381	   152.769 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  62	     84562	   155.055 GigaMultsPerSecond
+Wait: clWaitForEvents failed
+clEnqueueReadBuffer failed
+Wait: clWaitForEvents failed
+       5	  64	     81920	     0.002 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  66	     79437	   146.017 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  68	     77101	   136.565 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  70	     74898	   150.593 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  72	     72817	   158.161 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  74	     70849	   114.446 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  76	     68985	   154.338 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  78	     67216	    93.117 GigaMultsPerSecond
+Wait: clWaitForEvents failed
+clEnqueueReadBuffer failed
+Wait: clWaitForEvents failed
+       5	  80	     65536	     0.002 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  82	     63937	   116.206 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  84	     62415	    91.811 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  86	     60963	   162.873 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  88	     59578	    99.963 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  90	     58254	    96.766 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  92	     56987	   128.385 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  94	     55775	   107.692 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  96	     54613	   114.182 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	  98	     53498	   179.637 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	 100	     52428	   154.717 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	 102	     51400	    97.280 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	 104	     50412	    97.299 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	 106	     49461	    85.371 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	 108	     48545	   154.012 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       5	 110	     47662	   178.323 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+Wait: clWaitForEvents failed
+clEnqueueReadBuffer failed
+Wait: clWaitForEvents failed
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+Wait: clWaitForEvents failed
+clEnqueueReadBuffer failed
+Wait: clWaitForEvents failed
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+Wait: clWaitForEvents failed
+clEnqueueReadBuffer failed
+Wait: clWaitForEvents failed
+       6	  32	    196608	     3.601 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  34	    185042	   183.842 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  36	    174762	   190.494 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  38	    165564	   131.280 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  40	    157286	   173.711 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  42	    149796	   170.058 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  44	    142987	   131.664 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  46	    136770	   146.534 GigaMultsPerSecond
+       6	  48	    131072	     4.181 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  50	    125829	   171.626 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  52	    120989	   167.059 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  54	    116508	   132.535 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  56	    112347	   151.324 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  58	    108473	   183.328 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  60	    104857	   137.419 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  62	    101475	   174.158 GigaMultsPerSecond
+Wait: clWaitForEvents failed
+clEnqueueReadBuffer failed
+Wait: clWaitForEvents failed
+       6	  64	     98304	     0.003 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  66	     95325	   182.647 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  68	     92521	   191.329 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  70	     89877	   131.546 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  72	     87381	   100.909 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  74	     85019	   192.270 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  76	     82782	   192.576 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  78	     80659	   167.037 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  80	     78643	   182.838 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  82	     76725	   121.868 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  84	     74898	   188.035 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  86	     73156	   183.681 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  88	     71493	   186.242 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  90	     69905	   190.454 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  92	     68385	   186.690 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  94	     66930	   169.481 GigaMultsPerSecond
+Wait: clWaitForEvents failed
+clEnqueueReadBuffer failed
+Wait: clWaitForEvents failed
+       6	  96	     65536	     0.003 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	  98	     64198	   165.674 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	 100	     62914	   173.946 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	 102	     61680	   182.774 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	 104	     60494	   173.807 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	 106	     59353	   187.056 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	 108	     58254	   136.869 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	 110	     57195	   186.557 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	 112	     56173	   183.961 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	 114	     55188	   190.339 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	 116	     54236	   167.139 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	 118	     53317	   123.867 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	 120	     52428	   185.737 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	 122	     51569	   200.454 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	 124	     50737	   183.510 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	 126	     49932	   174.908 GigaMultsPerSecond
+Wait: clWaitForEvents failed
+clEnqueueReadBuffer failed
+Wait: clWaitForEvents failed
+       6	 128	     49152	     0.003 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	 130	     48395	   174.105 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       6	 132	     47662	   174.801 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+Wait: clWaitForEvents failed
+clEnqueueReadBuffer failed
+Wait: clWaitForEvents failed
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+Wait: clWaitForEvents failed
+clEnqueueReadBuffer failed
+Wait: clWaitForEvents failed
+       7	  32	    229376	     3.536 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  34	    215883	   163.708 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  36	    203889	   156.617 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  38	    193158	   136.169 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  40	    183500	   125.331 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  42	    174762	   248.713 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  44	    166818	   177.725 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  46	    159565	   184.548 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  48	    152917	   154.918 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  50	    146800	   187.922 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  52	    141154	   165.290 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  54	    135926	   163.701 GigaMultsPerSecond
+       7	  56	    131072	     0.965 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  58	    126552	   185.228 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  60	    122333	   187.413 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  62	    118387	   201.555 GigaMultsPerSecond
+Wait: clWaitForEvents failed
+clEnqueueReadBuffer failed
+Wait: clWaitForEvents failed
+       7	  64	    114688	     0.003 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  66	    111212	   188.312 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  68	    107941	   177.043 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  70	    104857	   220.587 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  72	    101944	   175.000 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  74	     99189	   174.534 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  76	     96579	   160.554 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  78	     94102	   177.295 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  80	     91750	   175.578 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  82	     89512	   168.272 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  84	     87381	   172.939 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  86	     85349	     4.079 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  88	     83409	   158.532 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  90	     81555	   157.704 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  92	     79782	   129.012 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  94	     78085	   158.834 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  96	     76458	   211.340 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	  98	     74898	   112.787 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	 100	     73400	   176.872 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	 102	     71961	   186.281 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	 104	     70577	   209.871 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	 106	     69245	   160.249 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	 108	     67963	   152.895 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	 110	     66727	    79.661 GigaMultsPerSecond
+Wait: clWaitForEvents failed
+clEnqueueReadBuffer failed
+Wait: clWaitForEvents failed
+       7	 112	     65536	     0.003 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	 114	     64386	   159.023 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	 116	     63276	   179.016 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	 118	     62203	   144.058 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	 120	     61166	   184.025 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	 122	     60164	   183.570 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	 124	     59193	   180.891 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	 126	     58254	   175.796 GigaMultsPerSecond
+Wait: clWaitForEvents failed
+clEnqueueReadBuffer failed
+Wait: clWaitForEvents failed
+       7	 128	     57344	     0.003 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	 130	     56461	   214.571 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	 132	     55606	   192.667 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	 134	     54776	   199.025 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	 136	     53970	   176.324 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	 138	     53188	   176.456 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	 140	     52428	   188.095 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	 142	     51690	   141.544 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	 144	     50972	   162.114 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	 146	     50274	   219.643 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	 148	     49594	   160.789 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	 150	     48933	   161.178 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	 152	     48289	   190.754 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       7	 154	     47662	   189.293 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+Wait: clWaitForEvents failed
+clEnqueueReadBuffer failed
+Wait: clWaitForEvents failed
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+Wait: clWaitForEvents failed
+clEnqueueReadBuffer failed
+Wait: clWaitForEvents failed
+       8	  32	    262144	     2.236 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  34	    246723	   166.394 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  36	    233016	   188.678 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  38	    220752	   220.104 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  40	    209715	   158.174 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  42	    199728	   178.515 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  44	    190650	   145.006 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  46	    182361	   212.467 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  48	    174762	    73.958 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  50	    167772	   177.906 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  52	    161319	   283.869 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  54	    155344	   190.231 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  56	    149796	   103.636 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  58	    144631	   224.727 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  60	    139810	   208.698 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  62	    135300	   218.915 GigaMultsPerSecond
+Wait: clWaitForEvents failed
+clEnqueueReadBuffer failed
+Wait: clWaitForEvents failed
+       8	  64	    131072	     0.004 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  66	    127100	   174.457 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  68	    123361	   173.222 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  70	    119837	   193.790 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  72	    116508	   257.770 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  74	    113359	   189.086 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  76	    110376	   243.607 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  78	    107546	   176.157 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  80	    104857	   155.201 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  82	    102300	   245.834 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  84	     99864	   191.827 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  86	     97541	   188.326 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  88	     95325	   251.013 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  90	     93206	   261.368 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  92	     91180	   150.344 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  94	     89240	   173.257 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  96	     87381	   172.808 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	  98	     85598	   263.627 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 100	     83886	   167.893 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 102	     82241	   220.370 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 104	     80659	   198.181 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 106	     79137	   199.302 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 108	     77672	   199.886 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 110	     76260	   162.895 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 112	     74898	   196.238 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 114	     73584	   182.742 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 116	     72315	   235.701 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 118	     71089	   244.075 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 120	     69905	   185.848 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 122	     68759	   251.314 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 124	     67650	   255.992 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 126	     66576	   192.855 GigaMultsPerSecond
+Wait: clWaitForEvents failed
+clEnqueueReadBuffer failed
+Wait: clWaitForEvents failed
+       8	 128	     65536	     0.004 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 130	     64527	   216.659 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 132	     63550	   260.872 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 134	     62601	   252.631 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 136	     61680	   236.906 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 138	     60787	   191.167 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 140	     59918	   186.633 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 142	     59074	   180.731 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 144	     58254	   265.152 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 146	     57456	   263.437 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 148	     56679	   258.214 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 150	     55924	   256.070 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 152	     55188	   271.766 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 154	     54471	   189.873 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 156	     53773	   269.973 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 158	     53092	   257.572 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 160	     52428	   183.945 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 162	     51781	   266.305 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 164	     51150	   186.364 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 166	     50533	   240.396 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 168	     49932	   264.984 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 170	     49344	   259.934 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 172	     48770	   148.716 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 174	     48210	   169.831 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 176	     47662	   260.015 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+       8	 178	     47127	   192.961 GigaMultsPerSecond
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+clEnqueueNDRangeKernel failed: -54
+Wait: clWaitForEvents failed
+clEnqueueReadBuffer failed
+Wait: clWaitForEvents failed
